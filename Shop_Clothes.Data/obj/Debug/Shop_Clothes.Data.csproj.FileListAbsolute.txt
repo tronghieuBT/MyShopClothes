@@ -10,3 +10,15 @@ C:\Users\tronghieu\Desktop\Project_Shop_Important\Shop_Clothes\Shop_Clothes.Data
 C:\Users\tronghieu\Desktop\Project_Shop_Important\Shop_Clothes\Shop_Clothes.Data\obj\Debug\Shop_Clothes.Data.csprojResolveAssemblyReference.cache
 C:\Users\tronghieu\Desktop\Project_Shop_Important\Shop_Clothes\Shop_Clothes.Data\obj\Debug\Shop_Clothes.Data.dll
 C:\Users\tronghieu\Desktop\Project_Shop_Important\Shop_Clothes\Shop_Clothes.Data\obj\Debug\Shop_Clothes.Data.pdb
+C:\Users\tronghieu\Source\Repos\MyShopClothes\Shop_Clothes.Data\bin\Debug\Shop_Clothes.Data.dll.config
+C:\Users\tronghieu\Source\Repos\MyShopClothes\Shop_Clothes.Data\bin\Debug\Shop_Clothes.Data.dll
+C:\Users\tronghieu\Source\Repos\MyShopClothes\Shop_Clothes.Data\bin\Debug\Shop_Clothes.Data.pdb
+C:\Users\tronghieu\Source\Repos\MyShopClothes\Shop_Clothes.Data\bin\Debug\EntityFramework.dll
+C:\Users\tronghieu\Source\Repos\MyShopClothes\Shop_Clothes.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tronghieu\Source\Repos\MyShopClothes\Shop_Clothes.Data\bin\Debug\Shop_Clothes.Common.dll
+C:\Users\tronghieu\Source\Repos\MyShopClothes\Shop_Clothes.Data\bin\Debug\Shop_Clothes.Common.pdb
+C:\Users\tronghieu\Source\Repos\MyShopClothes\Shop_Clothes.Data\bin\Debug\EntityFramework.xml
+C:\Users\tronghieu\Source\Repos\MyShopClothes\Shop_Clothes.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tronghieu\Source\Repos\MyShopClothes\Shop_Clothes.Data\obj\Debug\Shop_Clothes.Data.csprojResolveAssemblyReference.cache
+C:\Users\tronghieu\Source\Repos\MyShopClothes\Shop_Clothes.Data\obj\Debug\Shop_Clothes.Data.dll
+C:\Users\tronghieu\Source\Repos\MyShopClothes\Shop_Clothes.Data\obj\Debug\Shop_Clothes.Data.pdb

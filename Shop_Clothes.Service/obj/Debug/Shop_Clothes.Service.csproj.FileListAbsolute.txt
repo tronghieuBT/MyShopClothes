@@ -9,3 +9,14 @@ C:\Users\tronghieu\Desktop\Project_Shop_Important\Shop_Clothes\Shop_Clothes.Serv
 C:\Users\tronghieu\Desktop\Project_Shop_Important\Shop_Clothes\Shop_Clothes.Service\obj\Debug\Shop_Clothes.Service.csprojResolveAssemblyReference.cache
 C:\Users\tronghieu\Desktop\Project_Shop_Important\Shop_Clothes\Shop_Clothes.Service\obj\Debug\Shop_Clothes.Service.dll
 C:\Users\tronghieu\Desktop\Project_Shop_Important\Shop_Clothes\Shop_Clothes.Service\obj\Debug\Shop_Clothes.Service.pdb
+C:\Users\tronghieu\Source\Repos\MyShopClothes\Shop_Clothes.Service\bin\Debug\Shop_Clothes.Service.dll
+C:\Users\tronghieu\Source\Repos\MyShopClothes\Shop_Clothes.Service\bin\Debug\Shop_Clothes.Service.pdb
+C:\Users\tronghieu\Source\Repos\MyShopClothes\Shop_Clothes.Service\bin\Debug\Shop_Clothes.Common.dll
+C:\Users\tronghieu\Source\Repos\MyShopClothes\Shop_Clothes.Service\bin\Debug\Shop_Clothes.Data.dll
+C:\Users\tronghieu\Source\Repos\MyShopClothes\Shop_Clothes.Service\bin\Debug\Shop_Clothes.Model.dll
+C:\Users\tronghieu\Source\Repos\MyShopClothes\Shop_Clothes.Service\bin\Debug\Shop_Clothes.Common.pdb
+C:\Users\tronghieu\Source\Repos\MyShopClothes\Shop_Clothes.Service\bin\Debug\Shop_Clothes.Data.pdb
+C:\Users\tronghieu\Source\Repos\MyShopClothes\Shop_Clothes.Service\bin\Debug\Shop_Clothes.Model.pdb
+C:\Users\tronghieu\Source\Repos\MyShopClothes\Shop_Clothes.Service\obj\Debug\Shop_Clothes.Service.csprojResolveAssemblyReference.cache
+C:\Users\tronghieu\Source\Repos\MyShopClothes\Shop_Clothes.Service\obj\Debug\Shop_Clothes.Service.dll
+C:\Users\tronghieu\Source\Repos\MyShopClothes\Shop_Clothes.Service\obj\Debug\Shop_Clothes.Service.pdb

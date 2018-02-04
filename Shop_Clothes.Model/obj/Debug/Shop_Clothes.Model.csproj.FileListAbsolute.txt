@@ -8,3 +8,13 @@ C:\Users\tronghieu\Desktop\Project_Shop_Important\Shop_Clothes\Shop_Clothes.Mode
 C:\Users\tronghieu\Desktop\Project_Shop_Important\Shop_Clothes\Shop_Clothes.Model\obj\Debug\Shop_Clothes.Model.csprojResolveAssemblyReference.cache
 C:\Users\tronghieu\Desktop\Project_Shop_Important\Shop_Clothes\Shop_Clothes.Model\obj\Debug\Shop_Clothes.Model.dll
 C:\Users\tronghieu\Desktop\Project_Shop_Important\Shop_Clothes\Shop_Clothes.Model\obj\Debug\Shop_Clothes.Model.pdb
+C:\Users\tronghieu\Source\Repos\MyShopClothes\Shop_Clothes.Model\bin\Debug\Shop_Clothes.Model.dll.config
+C:\Users\tronghieu\Source\Repos\MyShopClothes\Shop_Clothes.Model\bin\Debug\Shop_Clothes.Model.dll
+C:\Users\tronghieu\Source\Repos\MyShopClothes\Shop_Clothes.Model\bin\Debug\Shop_Clothes.Model.pdb
+C:\Users\tronghieu\Source\Repos\MyShopClothes\Shop_Clothes.Model\bin\Debug\EntityFramework.dll
+C:\Users\tronghieu\Source\Repos\MyShopClothes\Shop_Clothes.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tronghieu\Source\Repos\MyShopClothes\Shop_Clothes.Model\bin\Debug\EntityFramework.xml
+C:\Users\tronghieu\Source\Repos\MyShopClothes\Shop_Clothes.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tronghieu\Source\Repos\MyShopClothes\Shop_Clothes.Model\obj\Debug\Shop_Clothes.Model.csprojResolveAssemblyReference.cache
+C:\Users\tronghieu\Source\Repos\MyShopClothes\Shop_Clothes.Model\obj\Debug\Shop_Clothes.Model.dll
+C:\Users\tronghieu\Source\Repos\MyShopClothes\Shop_Clothes.Model\obj\Debug\Shop_Clothes.Model.pdb
