@@ -1,0 +1,5 @@
+C:\Users\tronghieu\Desktop\Project_Shop_Important\Shop_Clothes\Shop_Clothes.Common\bin\Debug\Shop_Clothes.Common.dll
+C:\Users\tronghieu\Desktop\Project_Shop_Important\Shop_Clothes\Shop_Clothes.Common\bin\Debug\Shop_Clothes.Common.pdb
+C:\Users\tronghieu\Desktop\Project_Shop_Important\Shop_Clothes\Shop_Clothes.Common\obj\Debug\Shop_Clothes.Common.csprojResolveAssemblyReference.cache
+C:\Users\tronghieu\Desktop\Project_Shop_Important\Shop_Clothes\Shop_Clothes.Common\obj\Debug\Shop_Clothes.Common.dll
+C:\Users\tronghieu\Desktop\Project_Shop_Important\Shop_Clothes\Shop_Clothes.Common\obj\Debug\Shop_Clothes.Common.pdb
